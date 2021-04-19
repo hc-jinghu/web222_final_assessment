@@ -2,19 +2,18 @@
  * Styles for the add-observation.html page 
  */
 
-
 .required {
-    color: red;
+  color: red;
 }
 
 #pName {
-    width: 60%;
+  width: 60%;
 }
 
-#pEmail {  
-    width: 60%;
+#pEmail {
+  width: 60%;
 }
 
 #photo {
-    width: 40%;
+  width: 40%;
 }
