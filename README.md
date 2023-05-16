@@ -15,5 +15,3 @@
 ```
 NOTE: all the observation data is locally stored inside src/js/data.js file, the newly addess observations will not persist.
 ```
-
-## Web App Link
